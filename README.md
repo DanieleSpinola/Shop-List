@@ -1,2 +1,7 @@
 # Shop-List
-This is an app that helps to remember and what to pick up in the market in real time.
+This is a multiplatform software that helps to remember and what to pick up in the market in real time.
+
+# Main Features:
+  - Authentication with keycloak
+  - CRUD
+  - Socket
